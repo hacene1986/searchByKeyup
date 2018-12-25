@@ -1,0 +1,12 @@
+#suggestionList {
+  list-style: none;
+  padding-left: 2px;
+  width: 206px;
+  
+}
+#suggestionList li{
+  background-color: rgb(85, 144, 151);
+  border: solid 1px;
+  color: white;
+  font-weight: bold;
+}
